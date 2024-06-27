@@ -18,19 +18,6 @@ Sou um Desenvolvedor FullStack Web apaixonado por aprender coisas novas e entreg
 [![MySQL](https://skillicons.dev/icons?i=mysql)]()
 [![Sequelize](https://skillicons.dev/icons?i=sequelize)]()
 [![Mongo DB](https://skillicons.dev/icons?i=mongodb)]()
-[![Linux](https://skillicons.dev/icons?i=linux)]()
-[![Windows](https://skillicons.dev/icons?i=windows)]()
 [![Figma](https://skillicons.dev/icons?i=figma)]()
 [![Git](https://skillicons.dev/icons?i=git)]()
 [![Github](https://skillicons.dev/icons?i=github)]()
-[![NPM](https://skillicons.dev/icons?i=npm)]()
-[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)]()
-[![Vite.js](https://skillicons.dev/icons?i=vite)]()
-
-
-
-### Links e contatos
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/nathan-de-sousa-barros-078a0b252)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](linkedin.com/in/nathan-de-sousa-barros-078a0b252)
-
-![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=nika565&show_icons=true&theme=dracula)

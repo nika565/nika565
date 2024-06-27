@@ -21,3 +21,7 @@ Sou um Desenvolvedor FullStack Web apaixonado por aprender coisas novas e entreg
 [![Figma](https://skillicons.dev/icons?i=figma)]()
 [![Git](https://skillicons.dev/icons?i=git)]()
 [![Github](https://skillicons.dev/icons?i=github)]()
+
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nika565&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)

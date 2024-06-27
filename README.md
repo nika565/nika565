@@ -1,8 +1,12 @@
 
-# Olá, Eu sou o Nathan!👋🏼😎
+# Olá, Eu sou o Nathan!😁
 
 ## Sobre mim
-Sou um Desenvolvedor FullStack Web apaixonado por aprender coisas novas e entregar as soluções modernas! <br> Aqui você vai encontrar meus projetos e casos de estudo, sinta-se em casa e explore os repositórios!!!
+Sou formado em técnico em Desenvolvimento de Sistemas e atuo como programador júnior no mercado de tecnologia da informação. Tenho paixão por aprender novas tecnologias e resolver problemas complexos. Estou empenhado em expandir meus conhecimentos em desenvolvimento de software e contribuir para projetos que gerem impacto positivo aos usuários finais.
+
+## Formações acadêmicas
+- Cursando Análise e Desenvolvimento de sistemas
+- Formado em técnico em desenvolvimento de sistemas pelo SENAI
 
 ## Tecnologias
 [![HTML5](https://skillicons.dev/icons?i=html)]()

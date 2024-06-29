@@ -1,14 +1,14 @@
 
-# Olá, Eu sou o Nathan!😁
+### Olá, Eu sou o Nathan!😁
 
-## Sobre mim
+### Sobre mim
 Sou formado em técnico em Desenvolvimento de Sistemas e atuo como programador júnior no mercado de tecnologia da informação. Tenho paixão por aprender novas tecnologias e resolver problemas complexos. Estou empenhado em expandir meus conhecimentos em desenvolvimento de software e contribuir para projetos que gerem impacto positivo aos usuários finais.
 
-## Formações acadêmicas
+### Formações acadêmicas
 - Cursando Análise e Desenvolvimento de sistemas
 - Formado em técnico em desenvolvimento de sistemas pelo SENAI
 
-## Tecnologias
+### Tecnologias
 [![HTML5](https://skillicons.dev/icons?i=html)]()
 [![CSS3](https://skillicons.dev/icons?i=css)]()
 [![Javascript](https://skillicons.dev/icons?i=js)]()

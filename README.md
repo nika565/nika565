@@ -11,7 +11,8 @@ Sou **Desenvolvedor de Software Júnior** com formação técnica em Desenvolvim
 
 ## Tecnologias
 
-[![Java](https://skillicons.dev/icons?i=java)]() [![Spring](https://skillicons.dev/icons?i=spring)]() [![JavaScript](https://skillicons.dev/icons?i=js)]() [![TypeScript](https://skillicons.dev/icons?i=ts)]()  
+[![Java](https://skillicons.dev/icons?i=java)]() [![Spring](https://skillicons.dev/icons?i=spring)]() 
+[![JavaScript](https://skillicons.dev/icons?i=js)]() [![TypeScript](https://skillicons.dev/icons?i=ts)]()  
 [![React](https://skillicons.dev/icons?i=react)]() [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
  [![MySQL](https://skillicons.dev/icons?i=mysql)]() 
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)]()

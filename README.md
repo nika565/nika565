@@ -41,7 +41,7 @@ I'm passionate about technology, software engineering best practices, and always
   - **SOLID**  
   - **Domain Driven Design**  
   - **DevOps** (CI/CD, Monitoramento, Kubernetes, Linux, Docker e mais)  
-  - Desenvolvimento **Front-End** com Angular e **Mobile Android**  
+  - Desenvolvimento **Front-End** com Angular e React 
   - **Cloud Computing**  
   - Uso de ferramentas como **ChatGPT** para otimizar processos  
 

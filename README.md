@@ -1,7 +1,8 @@
 # 👋 Olá, Eu sou Nathan Barros | Hello, I'm Nathan Barros
 
 Bem-vindo ao meu perfil no GitHub! 🚀  
-Sou apaixonado por tecnologia, boas práticas de engenharia de software e sempre em busca de novos desafios.  
+Sou apaixonado por tecnologia, boas práticas de engenharia de software e sempre em busca de novos desafios.
+
 Welcome to my GitHub profile! 🚀  
 I'm passionate about technology, software engineering best practices, and always looking for new challenges.
 

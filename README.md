@@ -25,9 +25,9 @@ I'm passionate about technology, software engineering best practices, and always
 
 ## 🌐 **Infraestrutura e DevOps** | **Infrastructure and DevOps**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=dockerl&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
@@ -36,7 +36,7 @@ I'm passionate about technology, software engineering best practices, and always
 - Trabalho com tecnologias e boas práticas como:  
   - **TDD, BDD**  
   - **Design Patterns**  
-  - **Microservices vs Monolithic**  
+  - **Microservices & Monolithic**  
   - **Clean Architecture**  
   - **Clean Code**  
   - **SOLID**  
@@ -44,7 +44,7 @@ I'm passionate about technology, software engineering best practices, and always
   - **DevOps** (CI/CD, Monitoramento, Kubernetes, Linux, Docker e mais)  
   - Desenvolvimento **Front-End** com Angular e React 
   - **Cloud Computing**  
-  - Uso de ferramentas como **ChatGPT** para otimizar processos  
+  - Uso de ferramentas como **Claude Code** para otimizar processos  
 
 - I work with technologies and best practices such as:  
   - **TDD, BDD**  
@@ -57,7 +57,7 @@ I'm passionate about technology, software engineering best practices, and always
   - **DevOps** (CI/CD, Monitoring, Kubernetes, Linux, Docker, and more)  
   - **Front-End** development with Angular and React 
   - **Cloud Computing**  
-  - Using tools like **ChatGPT** to optimize processes  
+  - Using tools like **Claude Code** to optimize processes  
 
 ---
 

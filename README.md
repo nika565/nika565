@@ -11,8 +11,9 @@ I'm passionate about technology, software engineering best practices, and always
 ## 🛠️ **Linguagens e Ferramentas** | **Languages and Tools**
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
+![Typescript](https://skillicons.dev/icons?i=ts)
+![Angular](https://skillicons.dev/icons?i=angular)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 

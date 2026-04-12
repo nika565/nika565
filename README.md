@@ -25,6 +25,8 @@ I'm passionate about technology, software engineering best practices, and always
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
 
 ---
 
